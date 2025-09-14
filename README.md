@@ -1,7 +1,7 @@
 # Collex: A Cross-Platform Marketplace App
 
 <p align="center">
-  <img src="screenshots/promo_image.png" alt="App Promo Image">
+  <img src="screenshots/promo_image.png" alt="App Promo Image" width="300">
 </p>
 
 Excited to share a project I've been developing: **Collex**, a fully-featured, cross-platform marketplace application!
