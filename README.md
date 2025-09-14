@@ -32,8 +32,6 @@ You can download and test the Android APK directly from this repository:
 
 ## Screenshots
 
-*(Please add your screenshots in the `screenshots` folder and update the paths below!)*
-
 <p align="center">
     <img src="screenshots/screen1.png" width="200" alt="Screenshot 1">&nbsp;&nbsp;
     <img src="screenshots/screen2.png" width="200" alt="Screenshot 2">&nbsp;&nbsp;
